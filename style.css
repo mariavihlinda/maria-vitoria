@@ -1,4 +1,24 @@
 body{
-    background-color: rgb(245, 244, 186);
+    background-color: rgb(240, 220, 247);
 }
-img{width: 500px;px;px}
+img{width: 500px;
+text-align : center;
+}
+header{
+    /*corde fundo*/
+    background-color: rgb(231, 190, 243);
+    /*cor de texto*/ 
+    color: rgb(217, 253, 253);
+    text-align:center;
+    /*preenchimento*/
+    padding: 20px;
+}
+footer{/*cor de fundo*/
+    background-color: rgb(221, 165, 243);
+    /*cor de texto*/
+    color: rgb(12, 8, 12);
+    /*alinhamento de texto*/
+    text-align: center;
+    /*preenchimento*/
+    padding: 20px;
+}
