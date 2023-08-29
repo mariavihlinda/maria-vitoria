@@ -1,5 +1,7 @@
 body{
     background-color: rgb(240, 220, 247);
+     font-family: 'Courier New', Courier, monospace;
+     margin: 0;a
 }
 img{width: 500px;
 text-align : center;
@@ -21,4 +23,10 @@ footer{/*cor de fundo*/
     text-align: center;
     /*preenchimento*/
     padding: 20px;
+}
+a:hover{
+    color: rgb(17, 20, 20);
+}
+a{
+ transition: color 0.3 ease;
 }
