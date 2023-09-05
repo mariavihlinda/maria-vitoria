@@ -30,3 +30,20 @@ a:hover{
 a{
  transition: color 0.3 ease;
 }
+nav{
+    background-color: rgb(217, 146, 235);
+    text-align: center;
+}
+    nav li {
+        display: inline;
+        margin-right: 40px;
+    }
+    nav a{
+        text-decoration: none;
+        color: aliceblue;
+        font-weight: bold;
+        font-size: 30px;
+    }
+    nav a {
+        color: rgb(166, 27, 201);
+    }
